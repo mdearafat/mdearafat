@@ -1,16 +1,19 @@
-## Hi there 👋
+# Md Easin Arafat
+New York, NY
 
-<!--
-**mdearafat/mdearafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast web applications and manage the Linux infrastructure that powers them. Currently, I work as a Web Developer at PITS Global LLC.
 
-Here are some ideas to get you started:
+### Focus
+- Development: Building React and Next.js applications and managing over 10 production WordPress sites.
+- Systems: Handling Linux servers, Cloudflare DNS, and system backups for security and uptime.
+- Leadership: Leading a 2-person development team and automating workflows with AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Languages: JavaScript, Python, SQL, HTML, CSS
+- Frameworks and CMS: React, Next.js, WordPress
+- Infrastructure: Linux, Cloudflare, GitHub, WP-CLI
+- Tools: Figma, Zapier, Make.com
+
+### Connect
+- Portfolio: [mdearafat.com](https://www.mdearafat.com)
+- LinkedIn: [linkedin.com/in/mdearafat](https://www.linkedin.com/in/mdearafat)
